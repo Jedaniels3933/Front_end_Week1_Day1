@@ -1,0 +1,116 @@
+h1{
+    font-family: cursive;
+    color: #FF0000;
+    text-align: center;
+    font-size: 50px;
+    background-color: purple;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+
+h2{
+    font-family: cursive;
+    color: #1100ff;
+    text-align: left;
+    font-size: 35px;
+    background-color: rgb(0, 115, 128);
+    padding: 30px;
+    border: 3px solid black;
+    border-radius: 50px;
+    margin: 25px;
+}
+ul{
+    font-family: cursive;
+    color: #100f0f;
+    text-align: left;
+    font-size: 25px;
+    background-color: rgb(0, 115, 128);
+    padding: 30px;
+    border: 3px solid black;
+    border-radius: 50px;
+    margin: 25px;
+}
+
+ol{
+    font-family: cursive;
+    color: #ff00808a;
+    text-align: center;
+    font-size: 25px;
+    background-color: rgb(0, 11, 128);
+    padding: 30px;
+    border: 3px solid black;
+    border-radius: 50px;
+    margin: 25px;
+}
+div{
+    font-family: cursive;
+    color: #f5f5d9f5;
+    text-align: left;
+    font-size: 25px;
+    background-color: rgb(0, 11, 128);
+    padding: 30px;
+    border: 3px solid black;
+    border-radius: 50px;
+    margin: 11px;
+}
+header{
+    font-family: block;
+    color: #623d18f5;
+    text-align: center;
+    font-size: 25px;
+    background-color: rgb(0, 11, 128);
+    padding: px;
+    border: 3px solid black;
+    border-radius: 50px;
+    margin: 11px;
+}
+footer{
+    font-family: block;
+    color: #623d18f5;
+    text-align: center;
+    font-size: 25px;
+    background-color: rgb(0, 11, 128);
+    padding: px;
+    border: 3px solid black;
+    border-radius: 50px;
+    margin: 11px;
+}
+
+#main-header{
+    font-family: cursive;
+    color: #1100ff;
+    text-align: center;
+    font-size: 50px;
+    background-color: purple;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+ul li:first-child {
+    font-weight: bold;
+    padding: 10px;
+    background-color: #f4f4f4;
+
+  }
+
+form{
+    font-family: cursive;
+    color: #1100ff;
+    text-align: center;
+    font-size: 50px;
+    background-color: purple;
+    padding: 5px;
+    border: 2px solid rgb(179, 11, 11);
+    border-radius: 10px;
+    margin: 20px;
+}
+button {
+    padding: 30px;
+    color: white; 
+    background-color: black;
+  }  
